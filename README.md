@@ -1,7 +1,8 @@
 # 👋 Hey there! I'm Anurup Datta  
 🚀 **Flutter Developer | AI Enthusiast | UI/UX Designer**  
 
-![Profile](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
+![Fixing Bugs](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)  
+ 
 
 I'm a **third-year Computer Science Engineering student at VIT Bhopal University**, passionate about building **scalable and user-friendly mobile applications**. I specialize in **Flutter** and have experience integrating AI technologies into mobile apps.  
 
@@ -24,7 +25,7 @@ I'm a **third-year Computer Science Engineering student at VIT Bhopal University
 🥇 **Winner** of **DrGViswanathan Coding Hackathon** (3000+ participants)  
 📜 **Certified** in **Flutter & Dart (Udemy)**, **Computer Networking (Coursera)**  
 
-![Fixing Bugs](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)  
+![Profile](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) 
 
 ## 💻 Tech Stack  
 **Languages:** Dart, C++, Java  
