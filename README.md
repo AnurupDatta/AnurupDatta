@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Anurup Datta  
 🚀 **Flutter Developer | AI Enthusiast | UI/UX Designer**  
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+![Profile](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
 
 I'm a **third-year Computer Science Engineering student at VIT Bhopal University**, passionate about building **scalable and user-friendly mobile applications**. I specialize in **Flutter** and have experience integrating AI technologies into mobile apps.  
 
@@ -11,7 +11,7 @@ I'm a **third-year Computer Science Engineering student at VIT Bhopal University
 - **🎨 UI/UX Design**: Creating sleek, user-centric designs with **Figma, Adobe, and Canva**  
 - **👨‍💻 Competitive Programming & DSA**: Solved **120+ problems on LeetCode**  
 
-![Flutter](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)  
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ## 🚀 Projects  
 - **Dr.Green** 🌱 – AI-powered plant disease detection app (90% accuracy) using **TensorFlow Lite**  
@@ -19,22 +19,18 @@ I'm a **third-year Computer Science Engineering student at VIT Bhopal University
 - **HelpShelf** 🍔 – A **peer-to-peer food exchange platform** for VIT students, reducing food waste by **35%**  
 - **BroTalk** 🤖 – A **Gen AI chatbot** handling **100+ queries daily** using **Gemini API**  
 
-![AI](https://media.giphy.com/media/UqZsG3hHN3pTboPqAG/giphy.gif)  
-
 ## 🏆 Achievements  
 🏅 **Top 10 Finalist** in **AI Odyssey Hackathon** (500+ participants)  
 🥇 **Winner** of **DrGViswanathan Coding Hackathon** (3000+ participants)  
 📜 **Certified** in **Flutter & Dart (Udemy)**, **Computer Networking (Coursera)**  
 
+![Fixing Bugs](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)  
+
 ## 💻 Tech Stack  
 **Languages:** Dart, C++, Java  
 **Frameworks & Tools:** Flutter, Firebase, TensorFlow Lite, GitHub, Android Studio, Figma, Canva  
-
-![Debugging](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)  
 
 ## 📫 Let's Connect!  
 🔗 **GitHub:** [AnurupDatta](https://github.com/AnurupDatta)  
 💼 **LinkedIn:** [Anurup Datta](https://www.linkedin.com/in/anurup-datta-1ab634251/)  
 📧 **Email:** anurupdattakgp@gmail.com  
-
-![Success](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
