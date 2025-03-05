@@ -12,7 +12,6 @@ I'm a **third-year Computer Science Engineering student at VIT Bhopal University
 - **🎨 UI/UX Design**: Creating sleek, user-centric designs with **Figma, Adobe, and Canva**  
 - **👨‍💻 Competitive Programming & DSA**: Solved **120+ problems on LeetCode**  
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ## 🚀 Projects  
 - **Dr.Green** 🌱 – AI-powered plant disease detection app (90% accuracy) using **TensorFlow Lite**  
