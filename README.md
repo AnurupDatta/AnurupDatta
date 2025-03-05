@@ -22,7 +22,7 @@ I'm a **third-year Computer Science Engineering student at VIT Bhopal University
 
 ## 🏆 Achievements  
 🏅 **Top 10 Finalist** in **AI Odyssey Hackathon** (500+ participants)  
-🥇 **Winner** of **DrGViswanathan Coding Hackathon** (3000+ participants)  
+🥇 **Finalist** of **DrGViswanathan Coding Hackathon** (3000+ participants)  
 📜 **Certified** in **Flutter & Dart (Udemy)**, **Computer Networking (Coursera)**  
 
 ![Profile](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) 
