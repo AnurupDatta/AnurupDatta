@@ -3,12 +3,12 @@
 
 ![Fixing Bugs](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)  
 
-I'm a **third-year Computer Science Engineering student at VIT Bhopal University**, passionate about building **scalable and user-friendly mobile applications**. I specialize in **Flutter** and have experience integrating AI technologies into mobile apps.  
+I'm a **final-year Computer Science Engineering student at VIT Bhopal University**, passionate about building **scalable and user-friendly mobile applications**. I specialize in **Flutter** and have experience integrating AI technologies into mobile apps.  
 
 ---
 
 ## 🔥 What I Do  
-- **📱 Mobile App Development**: Building high-performance cross-platform apps using **Flutter & Firebase**  
+- **📱 Mobile App Development**: Building high-performance cross-platform apps using **Flutter & Firebase** , with backend in Node.js and Express.js to store the data in MongoDB 
 - **🧠 AI-Powered Applications**: Implementing ML models and AI-driven features in mobile apps  
 - **🎨 UI/UX Design**: Creating sleek, user-centric designs with **Figma, Adobe, and Canva**  
 - **👨‍💻 Competitive Programming & DSA**: Solved **180+ problems on LeetCode**  
@@ -39,8 +39,8 @@ I'm a **third-year Computer Science Engineering student at VIT Bhopal University
 ---
 
 ## 💻 Tech Stack  
-**Languages:** Dart, C++, Java  
-**Frameworks & Tools:** Flutter, Firebase, TensorFlow Lite, GitHub, Android Studio, Figma, Canva  
+**Languages:**  C++, SQL, Dart 
+**Frameworks & Tools:** Flutter, Firebase,AWS, Node.Js, Express.Js, MongoDB TensorFlow Lite, GitHub, Android Studio, Figma, Canva  
 
 ---
 
