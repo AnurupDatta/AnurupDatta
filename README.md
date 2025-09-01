@@ -24,11 +24,13 @@ I'm a **final-year Computer Science Engineering student at VIT Bhopal University
   - 🔐 Built the app using Flutter with Firebase authentication for secure user login.  
   - 📝 Implemented a real-time leaderboard to rank ideas based on votes, boosting user engagement.  
   - 📊 Designed a Node.js + Express.js backend with MongoDB for scalable idea storage and retrieval.
+
 -**MockLy** 🧠 – A **Flutter-based quiz generator app** that converts PDFs into interactive mock tests using AI-powered MCQ extraction  
   - 🔐 Integrated with **Firebase Authentication** for personalized quiz history  
   - 🧠 Uses **AI to generate quizzes** from PDFs, reducing manual effort by **80%**  
   - 📝 Features include question shuffling, re-attempts, and offline access via `shared_preferences`  
-  - 📊 Helped students improve exam prep with data-backed performance tracking  
+  - 📊 Helped students improve exam prep with data-backed performance tracking
+
 - **Dr.Green** 🌱 – AI-powered plant disease detection app (90% accuracy) using **TensorFlow Lite**  
 - **Mr.Narrato** 🔊 – AI-based text-to-speech app improving narration clarity by **40%**  
 - **HelpShelf** 🍔 – A **peer-to-peer food exchange platform** for VIT students, reducing food waste by **35%**  
