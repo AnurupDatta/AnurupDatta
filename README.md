@@ -1,4 +1,5 @@
-[AnurupCV2 (2).pdf](https://github.com/user-attachments/files/22081436/AnurupCV2.2.pdf)
+
+![AnurupCV2 (2)_page-0001](https://github.com/user-attachments/assets/5d3ef9ac-8d69-4eb9-b884-125723953d25)
 
 # 👋 Hey there! I'm Anurup Datta  
 
