@@ -4,7 +4,7 @@
 
 ![Fixing Bugs](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)  
 
-I'm a **final-year Computer Science Engineering student at VIT Bhopal University**, passionate about building **scalable and user-friendly mobile applications**. I specialize in **Flutter** and have experience integrating AI technologies into mobile apps.  
+I'm a **final-year Computer Science Engineering student at VIT Bhopal University**, passionate about building **scalable AI Agents and user-friendly mobile applications**. I specialize in **Flutter**, **Gen AI** and have experience integrating AI technologies into mobile apps.  
 
 ---
 
@@ -14,26 +14,6 @@ I'm a **final-year Computer Science Engineering student at VIT Bhopal University
 - **🎨 UI/UX Design**: Creating sleek, user-centric designs with **Figma, Adobe, and Canva**  
 - **👨‍💻 Competitive Programming & DSA**: Solved **180+ problems on LeetCode**  
 
----
-
-## 🚀 Projects  
--**UpSkript** 🧠 – A startup idea-sharing platform where users can post, upvote, and share ideas in a community feed. 
-  - 🔐 Built the app using Flutter with Firebase authentication for secure user login.  
-  - 📝 Implemented a real-time leaderboard to rank ideas based on votes, boosting user engagement.  
-  - 📊 Designed a Node.js + Express.js backend with MongoDB for scalable idea storage and retrieval.
-
--**MockLy** 🧠 – A **Flutter-based quiz generator app** that converts PDFs into interactive mock tests using AI-powered MCQ extraction  
-  - 🔐 Integrated with **Firebase Authentication** for personalized quiz history  
-  - 🧠 Uses **AI to generate quizzes** from PDFs, reducing manual effort by **80%**  
-  - 📝 Features include question shuffling, re-attempts, and offline access via `shared_preferences`  
-  - 📊 Helped students improve exam prep with data-backed performance tracking
-
-- **Dr.Green** 🌱 – AI-powered plant disease detection app (90% accuracy) using **TensorFlow Lite**  
-- **Mr.Narrato** 🔊 – AI-based text-to-speech app improving narration clarity by **40%**  
-- **HelpShelf** 🍔 – A **peer-to-peer food exchange platform** for VIT students, reducing food waste by **35%**  
-- **BroTalk** 🤖 – A **Gen AI chatbot** handling **100+ queries daily** using **Gemini API**  
-
----
 
 ## 🏆 Achievements  
 🥇 **Winner** of **IIT Indore National Hackathon – AnalytaXX**  
@@ -41,9 +21,8 @@ I'm a **final-year Computer Science Engineering student at VIT Bhopal University
 🥈 **Finalist** of **SolVIT VIT Bhopal** (3000+ participants)  
 
 ## 📜  Certificates  
-📜  **AWS Solution Architect** - Powered by Ethnus.
+📜  **AI Engineering** - By Udemy.
 📜  **Computer Networking** - By Coursera. 
-📜  **SQL** - By W3 Schools.
 📜  **Flutter** - By Udemy.
 
 ![Profile](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
@@ -51,8 +30,8 @@ I'm a **final-year Computer Science Engineering student at VIT Bhopal University
 ---
 
 ## 💻 Tech Stack  
-**Languages:**  C++, SQL, Dart 
-**Frameworks & Tools:** Flutter, Firebase,AWS, Node.Js, Express.Js, MongoDB TensorFlow Lite, GitHub, Android Studio, Figma, Canva  
+**Languages:**  C++, SQL, Dart , Python
+**Frameworks & Tools:** Langchain , LnagGraph, RNN, ANN, LSTM, Graph DB, Astra DB, Fast API, Flutter, Firebase,AWS, Node.Js, Express.Js, MongoDB TensorFlow Lite, GitHub, Android Studio, Figma, Canva  
 
 ---
 
