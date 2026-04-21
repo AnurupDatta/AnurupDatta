@@ -12,7 +12,7 @@ I'm a **final-year Computer Science Engineering student at VIT Bhopal University
 - **📱 Mobile App Development**: Building high-performance cross-platform apps using **Flutter & Firebase** , with backend in Node.js and Express.js to store the data in MongoDB 
 - **🧠 AI-Powered Applications**: Implementing ML models and AI-driven features in mobile apps  
 - **🎨 UI/UX Design**: Creating sleek, user-centric designs with **Figma, Adobe, and Canva**  
-- **👨‍💻 Competitive Programming & DSA**: Solved **180+ problems on LeetCode**  
+- **👨‍💻 Competitive Programming & DSA**: Solved **250+ problems on LeetCode**  
 
 
 ## 🏆 Achievements  
